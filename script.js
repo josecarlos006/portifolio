@@ -23,4 +23,14 @@ const btn = document.querySelector("#send");
 
         e.preventDefault();
 
+        const nome = document.querySelector("#nome");
+        const numero = document.querySelector("#numero");
+        const email = document.querySelector("#email");
+        const tema = document.querySelector("#tema");
+        const mensagem = document.querySelector("#mensagem");
+        const value = nome.value;
+        const resultado = email.value;
+            console.log(value);
+            console.log(resultado);
+
     });
