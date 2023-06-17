@@ -29,7 +29,7 @@ const btn = document.querySelector("#send");
         const tema = document.querySelector("#tema");
         const mensagem = document.querySelector("#mensagem");
         const value = nome.value;
-        const resultado = email.value;
+        const resultado = email.resultado;
             console.log(value);
             console.log(resultado);
 
