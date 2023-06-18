@@ -77,9 +77,9 @@ html{
     margin-top: 40px;
     border: 10px solid #1CB698;
     display: block;
-    width: 60%;
+    width: 55%;
     margin: auto;
-    border-radius: 100%;
+    border-radius: 10%;
 }
 .inicio .contenido-banner h1{
     margin-top: 40px;
