@@ -409,9 +409,7 @@ html {
 
 .portfolio .galeria .proyecto a {
     text-decoration: none;
-    /* Remove o sublinhado */
     color: white;
-    /* Altera a cor do texto para preto */
 }
 
 .portfolio .galeria .proyecto .overlay {
